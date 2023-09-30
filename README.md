@@ -1,7 +1,7 @@
  <H2>Hi there 👋</H2>
  <br>
 - 😎 I'm currently working on something cool!<br>
-- 🌱 m currently learning with help from docs.github.com <br>
+- 🌱 I'm currently learning with help from docs.github.com <br>
 - 💡  Questions? GitHub it! <br>
 
 <!---
